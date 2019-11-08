@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: cb8fdbfecb25e1748ae4d97ed7b2a41d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - akikanPrefab: {fileID: 1678366999, guid: a8f3873a51674db40adec0d1e22a8d5c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
